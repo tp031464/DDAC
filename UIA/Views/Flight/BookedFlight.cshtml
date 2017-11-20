@@ -1,0 +1,65 @@
+﻿@model UIA.ViewModel.BookedFlightViewModel
+
+@{
+    ViewBag.Title = "List Booked Flight";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+@using (Html.BeginForm())
+{
+    <div class="container">
+        <h2 style="margin-top: 50px">Bookings</h2>
+
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+                <h4 style="margin-top: 30px" class="text-center">Booking List</h4>
+
+                @if (Model.BookingList != null)
+                {
+                    <table class="table table-hover" style="margin-top: 50px;">
+                        <tbody>
+                        <tr>
+                            <th>Booking ID</th>
+                            <th>Seats</th>
+                            <th>Origin</th>
+                            <th>Destination</th>
+                            <th>Departure Date and Time</th>
+                            <th>Arrival Date and Time</th>
+                        </tr>
+                            @foreach (var booking in Model.BookingList)
+                            {
+                                <tr id="trToolTip">
+                                    <td>
+                                        <a href="@Url.Action("BookedFlightDetail", "Flight", new {bookingId = booking.BookingId})" data-toggle="tooltip" data-placement="right" data-original-title="View Booking">@Html.DisplayFor(m => booking.BookingId)</a>
+                                    </td>
+                                    <td>
+                                        <a href="@Url.Action("BookedFlightDetail", "Flight", new {bookingId = booking.BookingId})" data-toggle="tooltip" data-placement="right" data-original-title="View Booking">@Html.DisplayFor(m => booking.Seat)</a>
+                                    </td>
+                                    <td>
+                                        <a href="@Url.Action("BookedFlightDetail", "Flight", new {bookingId = booking.BookingId})" data-toggle="tooltip" data-placement="right" data-original-title="View Booking">@Html.DisplayFor(m => booking.Origin)</a>
+                                    </td>
+                                    <td>
+                                        <a href="@Url.Action("BookedFlightDetail", "Flight", new {bookingId = booking.BookingId})" data-toggle="tooltip" data-placement="right" data-original-title="View Booking">@Html.DisplayFor(m => booking.Destination)</a>
+                                    </td>
+                                    <td>
+                                        <a href="@Url.Action("BookedFlightDetail", "Flight", new {bookingId = booking.BookingId})" data-toggle="tooltip" data-placement="right" data-original-title="View Booking">@Html.DisplayFor(m => booking.DepartureTime)</a>
+                                    </td>
+                                    <td>
+                                        <a href="@Url.Action("BookedFlightDetail", "Flight", new {bookingId = booking.BookingId})" data-toggle="tooltip" data-placement="right" data-original-title="View Booking">@Html.DisplayFor(m => booking.ArrivalTime)</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+            </div>
+        </div>
+    </div>
+}
+
+<script>
+    $(function() {
+        $('#trToolTip a').tooltip({placement: 'right'});
+    });
+</script>

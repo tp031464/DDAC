@@ -1,0 +1,376 @@
+﻿@model UIA.ViewModel.BookFlightViewModel
+
+@{
+    ViewBag.Title = "Flight Booking";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+@using (Html.BeginForm())
+{
+    <div class="container">
+        <h2 style="margin-top: 50px">Flights</h2>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="col-md-10 col-md-offset-1">
+                    <h4 style="margin-top:  30px">Booking Details</h4>
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Flight.Origin)
+                        @Html.TextBoxFor(m => m.Flight.Origin, new {@class = "form-control input-sm", disabled = "true"})
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Flight.Destination)
+                        @Html.TextBoxFor(m => m.Flight.Destination, new {@class = "form-control input-sm", disabled = "true"})
+                    </div>                    
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Flight.DepartureTime)
+                        @Html.TextBoxFor(m => m.Flight.DepartureTime, new {@class = "form-control input-sm", disabled = "true"})
+                    </div>       
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Flight.ArrivalTime)
+                        @Html.TextBoxFor(m => m.Flight.ArrivalTime, new {@class = "form-control input-sm", disabled = "true"})
+                    </div> 
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.SeatsSelected)
+                        @Html.TextBoxFor(m => m.SeatsSelected, new {@class = "form-control input-sm", @readonly = true, id = "selectedSeatTextbox" })
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Flight.Price)
+                        <br/>
+                        <label >RM </label>
+                        <label id="priceTextbox"> 0 </label>
+                    </div>
+                    <button type="submit" class="btn btn-default">Book</button>
+                </div>
+
+            </div>
+            <div class="col-md-8">
+            <h4 style="margin-top:30px">Seat Details</h4>
+            
+            <div class="seatContainer col-md-10 col-md-offset-1" style="height: 700px;">
+            
+            <div class="seatLeftPane">
+                <div class="rowNumber">1</div>
+                <div class="rowNumber">2</div>
+                <div class="rowNumber">&nbsp;</div>
+                <div class="rowNumber">3</div>
+                <div class="rowNumber">4</div>
+                <div class="rowNumber">&nbsp;</div>
+                <div class="rowNumber">5</div>
+                <div class="rowNumber">6</div>
+                <div class="rowNumber">7</div>
+                <div class="rowNumber">8</div>
+                <div class="rowNumber">9</div>
+            </div>
+
+            <div class="seatPane">
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>1A</span>
+                </div>
+                <div class="seat normal">
+                    <span>1B</span>
+                </div>
+                <div class="seat normal">
+                    <span>1C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>1D</span>
+                </div>
+                <div class="seat normal">
+                    <span>1E</span>
+                </div>
+                <div class="seat normal">
+                    <span>1F</span>
+                </div>
+            </div>
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>2A</span>
+                </div>
+                <div class="seat normal">
+                    <span>2B</span>
+                </div>
+                <div class="seat normal">
+                    <span>2C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>2D</span>
+                </div>
+                <div class="seat normal">
+                    <span>2E</span>
+                </div>
+                <div class="seat normal">
+                    <span>2F</span>
+                </div>
+            </div>
+
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+
+            </div>
+
+
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>3A</span>
+                </div>
+                <div class="seat normal">
+                    <span>3B</span>
+                </div>
+                <div class="seat normal">
+                    <span>3C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>3D</span>
+                </div>
+                <div class="seat normal">
+                    <span>3E</span>
+                </div>
+                <div class="seat normal">
+                    <span>3F</span>
+                </div>
+            </div>
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>4A</span>
+                </div>
+                <div class="seat normal">
+                    <span>4B</span>
+                </div>
+                <div class="seat normal">
+                    <span>4C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>4D</span>
+                </div>
+                <div class="seat normal">
+                    <span>4E</span>
+                </div>
+                <div class="seat normal">
+                    <span>4F</span>
+                </div>
+            </div>
+                
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+
+            </div>
+
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>5A</span>
+                </div>
+                <div class="seat normal">
+                    <span>5B</span>
+                </div>
+                <div class="seat normal">
+                    <span>5C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>5D</span>
+                </div>
+                <div class="seat normal">
+                    <span>5E</span>
+                </div>
+                <div class="seat normal">
+                    <span>5F</span>
+                </div>
+            </div>
+            
+
+
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>6A</span>
+                </div>
+                <div class="seat normal">
+                    <span>6B</span>
+                </div>
+                <div class="seat normal">
+                    <span>6C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>6D</span>
+                </div>
+                <div class="seat normal">
+                    <span>6E</span>
+                </div>
+                <div class="seat normal">
+                    <span>6F</span>
+                </div>
+            </div>
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>7A</span>
+                </div>
+                <div class="seat normal">
+                    <span>7B</span>
+                </div>
+                <div class="seat normal">
+                    <span>7C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>7D</span>
+                </div>
+                <div class="seat normal">
+                    <span>7E</span>
+                </div>
+                <div class="seat normal">
+                    <span>7F</span>
+                </div>
+            </div>
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>8A</span>
+                </div>
+                <div class="seat normal">
+                    <span>8B</span>
+                </div>
+                <div class="seat normal">
+                    <span>8C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>8D</span>
+                </div>
+                <div class="seat normal">
+                    <span>8E</span>
+                </div>
+                <div class="seat normal">
+                    <span>8F</span>
+                </div>
+            </div>
+            <div class="seats" style="margin-left: auto; margin-right: auto; display: inline-block; width: 100%">
+                <div class="seat normal">
+                    <span>9A</span>
+                </div>
+                <div class="seat normal">
+                    <span>9B</span>
+                </div>
+                <div class="seat normal">
+                    <span>9C</span>
+                </div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat empty"></div>
+                <div class="seat normal">
+                    <span>9D</span>
+                </div>
+                <div class="seat normal">
+                    <span>9E</span>
+                </div>
+                <div class="seat normal">
+                    <span>9F</span>
+                </div>
+            </div>
+
+            </div>
+
+            <div class="seatRightPane">
+                <div class="rowNumber"><strong>First</strong>
+                </div>
+                <div class="rowNumber"><strong>Class</strong>
+                </div>
+                <div class="rowNumber"><strong>&nbsp;</strong>
+                </div>
+                <div class="rowNumber"><strong>Business</strong>
+                </div>
+                <div class="rowNumber"><strong>Class</strong>
+                </div>
+                <div class="rowNumber"><strong>&nbsp;</strong>
+                </div>
+
+                <div class="rowNumber"><strong>Economy</strong>
+                </div>
+                <div class="rowNumber"><strong>Class</strong>
+                </div>
+            </div>
+
+            </div>
+                
+            </div>
+        </div>
+    </div>
+}
+<script>
+
+    console.log($('#priceTextbox').text());
+
+    $(document).ready(function () {
+        var bookedSeats = "@TempData["BookedSeats"]";
+
+        if (bookedSeats !== '') {
+            var bookedSeatsArray = bookedSeats.split(",");
+
+            console.log(bookedSeatsArray);
+
+            for (var i = 0; i < bookedSeatsArray.length; i++) {
+                $('*:contains(' + bookedSeatsArray[i] + ')').removeClass('normal').addClass('booked');
+            }
+        }
+    });
+
+
+
+    $('.seat').on('click', function () {
+        var count = [];
+        var price = @Model.Flight.Price;
+        var totalSeatCount = 0;
+
+        if($(this).hasClass('normal')) {
+            $(this).removeClass('normal').addClass('selected');
+        } else if ($(this).hasClass('selected')) {
+            $(this).removeClass('selected').addClass('normal');
+        }
+
+        $('.seat').each(function () {
+            if ($(this).hasClass('selected')) {
+                count.push($(this).children().html());
+                $("#selectedSeatTextbox").attr('value', count);
+                totalSeatCount++;
+            }
+        });
+
+        $("#priceTextbox").text(price * totalSeatCount);
+
+        if(count.length === 0) {
+            $("#selectedSeatTextbox").attr('value', '');
+            $("#priceTextbox").text(0);
+        }
+
+    });
+
+
+</script>

@@ -1,0 +1,297 @@
+c:\users\shanmen\source\repos\UIA\UIA\bin\ApplicationInsights.config
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\csc.exe
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\csc.exe.config
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\csc.rsp
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\csi.exe
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\csi.exe.config
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\csi.rsp
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\Microsoft.Win32.Primitives.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.AppContext.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Console.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Diagnostics.Process.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.IO.Compression.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.IO.FileSystem.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.IO.Pipes.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Security.AccessControl.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Security.Claims.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Security.Principal.Windows.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Text.Encoding.CodePages.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Threading.Thread.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.ValueTuple.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Xml.ReaderWriter.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Xml.XmlDocument.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Xml.XPath.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\System.Xml.XPath.XDocument.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\vbc.exe
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\vbc.exe.config
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\vbc.rsp
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\VBCSCompiler.exe
+c:\users\shanmen\source\repos\UIA\UIA\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shanmen\source\repos\UIA\UIA\bin\UIA.dll.config
+c:\users\shanmen\source\repos\UIA\UIA\bin\UIA.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\UIA.pdb
+c:\users\shanmen\source\repos\UIA\UIA\bin\Antlr3.Runtime.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\EntityFramework.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\EntityFramework.SqlServer.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.Web.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.WindowsServer.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.ApplicationInsights.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\Newtonsoft.Json.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.Helpers.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.Mvc.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.Optimization.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.Razor.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.WebPages.Deployment.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.WebPages.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.WebPages.Razor.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\WebGrease.dll
+c:\users\shanmen\source\repos\UIA\UIA\bin\EntityFramework.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\EntityFramework.SqlServer.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.Helpers.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.Mvc.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.Optimization.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.Razor.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.WebPages.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.WebPages.Deployment.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\System.Web.WebPages.Razor.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\Antlr3.Runtime.pdb
+c:\users\shanmen\source\repos\UIA\UIA\bin\Newtonsoft.Json.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.ApplicationInsights.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.WindowsServer.xml
+c:\users\shanmen\source\repos\UIA\UIA\bin\Microsoft.AI.Web.xml
+c:\users\shanmen\source\repos\UIA\UIA\obj\Debug\UIA.csproj.CoreCompileInputs.cache
+c:\users\shanmen\source\repos\UIA\UIA\obj\Debug\UIA.dll
+c:\users\shanmen\source\repos\UIA\UIA\obj\Debug\UIA.pdb
+C:\Users\ShanMen\source\repos\UIA\UIA\bin\ExpressiveAnnotations.dll
+C:\Users\ShanMen\source\repos\UIA\UIA\bin\ExpressiveAnnotations.MvcUnobtrusive.dll
+C:\Users\ShanMen\source\repos\UIA\UIA\bin\ExpressiveAnnotations.xml
+C:\Users\ShanMen\source\repos\UIA\UIA\bin\ExpressiveAnnotations.MvcUnobtrusive.xml
+C:\Users\ShanMen\source\repos\UIA\UIA\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\ShanMen\source\repos\UIA\UIA\obj\Debug\UIA.csprojResolveAssemblyReference.cache
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\ApplicationInsights.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\csc.exe
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\csc.exe.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\csc.rsp
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\csi.exe
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\csi.exe.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\csi.rsp
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.AppContext.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Console.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\vbc.exe
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\vbc.exe.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\vbc.rsp
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\UIA.dll.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\UIA.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\UIA.pdb
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Antlr3.Runtime.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\EntityFramework.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\EntityFramework.SqlServer.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\ExpressiveAnnotations.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\ExpressiveAnnotations.MvcUnobtrusive.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.Web.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Newtonsoft.Json.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.Helpers.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.Mvc.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.Optimization.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.Razor.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.WebPages.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\WebGrease.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\EntityFramework.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\EntityFramework.SqlServer.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\ExpressiveAnnotations.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\ExpressiveAnnotations.MvcUnobtrusive.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.Helpers.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.Mvc.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.Optimization.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.Razor.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.WebPages.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Antlr3.Runtime.pdb
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Newtonsoft.Json.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\bin\Microsoft.AI.Web.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\obj\Debug\UIA.csprojResolveAssemblyReference.cache
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\obj\Debug\UIA.csproj.CoreCompileInputs.cache
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\obj\Debug\UIA.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-ng.shan.men\DDAC-UIA-master\UIA\obj\Debug\UIA.pdb
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\ApplicationInsights.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\csc.exe
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\csc.exe.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\csc.rsp
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\csi.exe
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\csi.exe.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\csi.rsp
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.AppContext.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Console.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\vbc.exe
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\vbc.exe.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\vbc.rsp
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\UIA.dll.config
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\UIA.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\UIA.pdb
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Antlr3.Runtime.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\EntityFramework.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\EntityFramework.SqlServer.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\ExpressiveAnnotations.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\ExpressiveAnnotations.MvcUnobtrusive.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.Web.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Newtonsoft.Json.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.Helpers.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.Mvc.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.Optimization.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.Razor.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.WebPages.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\WebGrease.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\EntityFramework.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\EntityFramework.SqlServer.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\ExpressiveAnnotations.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\ExpressiveAnnotations.MvcUnobtrusive.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.Helpers.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.Mvc.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.Optimization.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.Razor.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.WebPages.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Antlr3.Runtime.pdb
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Newtonsoft.Json.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\bin\Microsoft.AI.Web.xml
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\obj\Debug\UIA.csprojResolveAssemblyReference.cache
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\obj\Debug\UIA.csproj.CoreCompileInputs.cache
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\obj\Debug\UIA.dll
+C:\Users\Wen Jie\Desktop\DDAC-UIA-master-CWJ\DDAC-UIA-master\UIA\obj\Debug\UIA.pdb

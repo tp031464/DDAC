@@ -1,0 +1,63 @@
+﻿@model UIA.ViewModel.BookingDetailViewModel
+
+@{
+    ViewBag.Title = "View Booked Flight";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <div class="container">
+        <h2 style="margin-top: 75px";>Flight ticket</h2>
+        @if(Model.BookingDetail != null) {
+        
+            foreach (var seat in ViewBag.SeatList)
+            {    
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 ticket" style="margin-top: 50px">
+                        <div class="row">
+                            <div class="col-md-12" style="background-color: black; border-bottom: 1px solid orange">
+                                <div class="col-md-4">
+                                    <h4 class="" style="font-weight: 400; color: white">UIA</h4>
+                                </div>
+                                <div class="col-md-4 col-md-offset-4">
+                                    <h4 class="" style="color: white">Boarding Pass</h4>
+                                </div>
+                            </div>
+                            <div class="col-md-12" style="background-color: white">
+                                <h2 class="">@Model.BookingDetail.Origin  <span class="glyphicon glyphicon-plane"></span> @Model.BookingDetail.Destination</h2>
+                                <h2 class=""></h2>
+                            </div>
+                            <div class="col-md-12" style="background-color: white; border-top: 1px solid black; padding-top: 0; padding-bottom: 0">
+                                <div class="col-md-8">
+                                    <h3> NAME <small>@HttpContext.Current.User.Identity.Name.Split('|')[0]</small></h3>
+                                </div>
+                                <div class="col-md-4">
+                                    <h3> SEAT <small>@seat </small></h3>
+                                </div>
+                            </div>
+                            <div class="col-md-12" style="background-color: white;">
+                                <div class="col-md-6" >
+                                    <h3> DEPERATURE <small>@Model.BookingDetail.DepartureTime </small></h3>
+                                </div>
+                                <div class="col-md-6">
+                                    <h3> ARRIVAL <small>@Model.BookingDetail.ArrivalTime </small></h3>
+                                </div>
+                            </div>
+                            <div class="col-md-12" style="background-color: black; border-top: 1px solid orange">
+                                <div class="col-md-8 col-md-offset-2">
+                                    <p class="text-center" style="color: white">ABCDEFGHIJKLMNOPQRSTUVWYZ1234567890-=</p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            }
+         }
+        <br/>
+        <br />
+        <div class="text-center">
+            <a href="@Url.Action("BookedFlight", "Flight")" class="btn btn-default">Back</a>
+        </div>
+     </div>
+

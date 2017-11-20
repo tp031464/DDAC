@@ -1,0 +1,100 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+            <div class="item active">
+                <img src="~/Images/St-Sophia-Cathedral-Kiev-Ukraine-Wallpaper-Hd-69038-1920x1080.jpg" alt="StSophia" style="max-width: 100%; margin: auto;" />
+            </div>
+
+            <div class="item">
+                <img src="~/Images/ukraine.jpg" alt="Ukraine" style="max-width: 100%; margin: auto;" />
+            </div>
+
+            <div class="item">
+                <img src="~/Images/LosAngeles.jpg" alt="LA" style="max-width: 100%; margin: auto;" />
+            </div>
+
+            <div class="item">
+                <img src="~/Images/tokyo.jpg" alt="Tokyo" style="max-width: 100%; margin: auto;" />
+            </div>
+
+            <div class="item">
+                <img src="~/Images/seoul-south-korea.jpg" alt="Seoul" style="max-width: 100%; margin: auto;" />
+            </div>
+          
+        </div>
+
+    <!-- Left and right controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div class="container body-content">
+    <div class="jumbotron" style="background-color: #232222">
+        <h2 style="color: white">Ukraine International Airlines</h2>
+        <p>
+            <h2><small>The leading and largest airline in Ukraine</small></h2>
+        </p>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h3>Check-in baggage and hand luggage allowance!!</h3>
+            <p>
+                We provide FREE baggage allowances for baggage that has size of lower than 150cm ( length + height + width)
+                and a maximum weight of 20kg for Economy Class and 30kg for Business Class.
+            </p>
+        </div>
+        <div class="col-md-6">
+            <h3>Promotion - Smart Fares: Save 20%</h3>
+            <p>
+                <h4>
+                    <a id="aToolTip" href="@Url.Action("BookFlight", "Flight", new {flightId = 1})" style="color: black" data-toggle="tooltip" data-placement="right" data-original-title="View Promotion"> KBP - BKK <del>RM1399</del> RM1119</a>
+                </h4>
+            </p>
+            <p>
+                <h4>
+                    <a id=" aToolTip" href="@Url.Action("BookFlight", "Flight", new {flightId = 2})" style="color: black" data-toggle="tooltip" data-placement="right" data-original-title="View Promotion"> KBP - HND <del>RM2299</del> RM1839</a>
+                </h4>
+            </p>
+            <p>
+                <h4>
+                    <a id=" aToolTip" href="@Url.Action("BookFlight", "Flight", new {flightId = 3})" style="color: black" data-toggle="tooltip" data-placement="right" data-original-title="View Promotion"> KBP - DXB <del>RM2499</del> RM1999</a>
+                </h4>
+            </p>
+            <p>
+                <h4>
+                    <a id=" aToolTip" href="@Url.Action("BookFlight", "Flight", new {flightId = 4})" style="color: black" data-toggle="tooltip" data-placement="right" data-original-title="View Promotion"> KBP - ICN <del>RM2299</del> RM1839</a>
+                </h4>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    $(function () {
+        $('#aToolTip').tooltip({ placement: 'right' });
+    });
+</script>
